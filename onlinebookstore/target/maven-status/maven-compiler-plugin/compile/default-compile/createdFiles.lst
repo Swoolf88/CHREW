@@ -1,0 +1,10 @@
+in\bushansirgur\onlinebookstore\entity\Book.class
+in\bushansirgur\onlinebookstore\OnlineBookStoreApplication.class
+in\bushansirgur\onlinebookstore\repository\BookRepository.class
+in\bushansirgur\onlinebookstore\repository\StateRepository.class
+in\bushansirgur\onlinebookstore\config\RepositoryConfig.class
+in\bushansirgur\onlinebookstore\entity\Country.class
+in\bushansirgur\onlinebookstore\entity\State.class
+in\bushansirgur\onlinebookstore\repository\CountryRepository.class
+in\bushansirgur\onlinebookstore\repository\BookCategoryRepository.class
+in\bushansirgur\onlinebookstore\entity\BookCategory.class
